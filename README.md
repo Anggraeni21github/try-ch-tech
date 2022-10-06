@@ -1,2 +1,2 @@
-# try-ch-tech
+# try-cv-tech
 mencoba untuk technical
